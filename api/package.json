@@ -117,7 +117,7 @@
 		"openapi3-ts": "^2.0.0",
 		"ora": "^5.1.0",
 		"otplib": "^12.0.1",
-		"pino": "^6.7.0",
+		"pino": "^8.8.0",
 		"pino-colada": "^2.1.0",
 		"qs": "^6.9.4",
 		"rate-limiter-flexible": "^2.1.13",
